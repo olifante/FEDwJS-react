@@ -1,4 +1,4 @@
-/* eslint no-undef: 0 */
+/* eslint-env jasmine */
 import React from 'react'
 import ReactDOM from 'react-dom'
 import App from './App'
